@@ -1,3 +1,14 @@
 body{
-    background-color: red;
+    padding: 0%;
+    margin: 0%;
+    background-color: blue;
+}
+.cuerpo{
+    margin: 20px auto;
+    width: 50%;
+}
+.center{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 10px;
 }
